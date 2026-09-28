@@ -1,28 +1,28 @@
 # CarritoSolar
 
 ## Nombre del proyecto
-CarritoSolar
+Flujo de energía Carro panel solar
 
 ## Descripción
-Repositorio para el proyecto CarritoSolar con estructura base para imágenes, video y resultados.
+Se realizó un carro capaz de avanzar haciendo uso de un panel solar
 
 ## Objetivos del aprendizaje
-- 
+Utilizar correctamente voltajes, motorreductores, soldadura, cableado y panel solar, asi como aprender a aprovechar la energía solar
 
 ## Material utilizado
-- Elemento 1
-- Elemento 2
-- Elemento 3
-- Elemento 4
-- Elemento 5
-- Elemento 6
-- Elemento 7
+- 2 motorreductores
+- Cautín(estaño, pasta para soldar)
+- Jumpers
+- Panel solar
+- Cargador USB
+- Caja de cartón
+- Rueda loca
 
 ## Diagrama del circuito
-- 
+<img src="imagenes/image_2026-09-27_184129553.png" alt="Descripción" width="200">
 
 ## Video del funcionamiento
-- 
+- https://www.youtube.com/shorts/gCr9snlNsw4
 
 ## Reporte
 - 
