@@ -28,4 +28,5 @@ Utilizar correctamente voltajes, motorreductores, soldadura, cableado y panel so
 - 
 
 ## Conclusiones
-- 
+
+La realización de este proyecto permitió poner en práctica conocimientos de electrónica, cableado y aprovechamiento de la energía solar. A través de la construcción del carrito se comprendió mejor el funcionamiento de los motorreductores y la importancia de utilizar correctamente los voltajes y conexiones. Finalmente, se logró construir un carrito funcional capaz de desplazarse utilizando la energía proporcionada por un panel solar
