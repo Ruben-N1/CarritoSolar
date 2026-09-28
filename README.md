@@ -25,7 +25,7 @@ Utilizar correctamente voltajes, motorreductores, soldadura, cableado y panel so
 - https://www.youtube.com/shorts/gCr9snlNsw4
 
 ## Reporte
-- 
+[Reporte técnico (IEEE)](resultados/REPORTE_IEEE_CarritoSolar.pdf)
 
 ## Conclusiones
 
